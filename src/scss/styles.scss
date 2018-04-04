@@ -1,0 +1,11 @@
+// Variables Overrides
+// Overrides node_modules/bootstrap/scss
+$theme-colors:(
+    "primary": #6C567B
+);
+
+$body-bg: #f0f0f0;
+
+//Bootstrap Sass Files
+@import "node_modules/bootstrap/scss/bootstrap";
+
